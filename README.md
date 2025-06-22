@@ -13,6 +13,12 @@ This site showcases my journey as a BTech CSE (Data Science) student, highlighti
 - GitHub Pages (for deployment)
 
 ## 📁 Folder Structure
+adil-portfolio/
+├── docs/
+│   ├── index.html
+│   ├── style.css
+│   └── images/
+├── README.md
 
 ## 📸 Features
 - Clean and responsive layout  
